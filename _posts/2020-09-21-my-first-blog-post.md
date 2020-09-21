@@ -1,3 +1,8 @@
+---
+title: "Welcome to Baby's First Blog"
+date: 2019-01-20
+---
+
 ## Dawn of a new age
 
 <pre>
